@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web-developer**
 
-- 👨‍💻 My portfolio is available at [https://portfolio-fxrbqbnsa-nagesh199.vercel.app/](https://portfolio-fxrbqbnsa-nagesh199.vercel.app/)
+- 👨‍💻 My portfolio is available at [https://portfolio-fxrbqbnsa-nagesh199.vercel.app/](https://portfolio-nagesh199.vercel.app/))
 
 - 💬 Ask me about **Html5,Css,Javascript ,React-js Redux ,Node , Express , Mongodb , Typescript**
 
