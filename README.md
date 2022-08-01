@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://avatars.githubusercontent.com/u/99637018?s=400&u=4d01493df9f52b11d5a046e8ca47d136fb285c6e&v=4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://avatars.githubusercontent.com/u/99637018?s=400&u=4d01493df9f52b11d5a046e8ca47d136fb285c6e&v=4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nageshwar-kumawat-1620b5218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nageshwar-kumawat-1620b5218/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
